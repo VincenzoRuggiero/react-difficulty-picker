@@ -1,0 +1,4 @@
+.centerElems {
+  display: flex;
+  justify-content: space-evenly;
+}
